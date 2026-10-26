@@ -1,0 +1,616 @@
+[
+ {
+  "id": "rct_001",
+  "title": "Hochland «Лабне» в Магните с кэшбэком 30%",
+  "short_title": "Hochland «Лабне»",
+  "brand": "Hochland",
+  "product_category_id": "dairy",
+  "image": null,
+  "bg_color": "#6FA86A",
+  "items": [
+   {
+    "name": "Hochland «Лабне»",
+    "variant": "140 г"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 30,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 100,
+  "starts_in_days": -10,
+  "ends_in_days": 20,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "magnit"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех форматах магазинов сети «Магнит»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_002",
+  "title": "Творожные сырки «Савушкин» с кэшбэком 90%",
+  "short_title": "Сырки «Савушкин»",
+  "brand": "Савушкин",
+  "product_category_id": "dairy",
+  "image": null,
+  "bg_color": "#C8956A",
+  "items": [
+   {
+    "name": "Творожный сырок",
+    "variant": "ваниль, 40 г"
+   },
+   {
+    "name": "Творожный сырок",
+    "variant": "варёная сгущёнка, 40 г"
+   },
+   {
+    "name": "Творожный сырок",
+    "variant": "кокос и миндаль, 40 г"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 90,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 50,
+  "starts_in_days": -10,
+  "ends_in_days": 35,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "pyaterochka"
+   ],
+   "formats": [
+    "near_home",
+    "supermarket"
+   ],
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "В магазинах «Пятёрочка» у дома и супермаркетах",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_003",
+  "title": "Kinder с кэшбэком до 10%",
+  "short_title": "Kinder",
+  "brand": "Kinder",
+  "product_category_id": "sweets",
+  "image": null,
+  "bg_color": "#E9B04C",
+  "items": [
+   {
+    "name": "Kinder Сюрприз",
+    "variant": "20 г"
+   },
+   {
+    "name": "Kinder Сюрприз",
+    "variant": "60 г"
+   },
+   {
+    "name": "Kinder Шоколад",
+    "variant": "50 г"
+   }
+  ],
+  "qty_rule": "Сумма товаров акции в одном чеке",
+  "mechanic": "tiers_in_receipt",
+  "rate": 10,
+  "tiers": [
+   {
+    "from_rub": 0,
+    "to_rub": 150,
+    "rate": 3
+   },
+   {
+    "from_rub": 150,
+    "to_rub": 250,
+    "rate": 5
+   },
+   {
+    "from_rub": 250,
+    "to_rub": null,
+    "rate": 10
+   }
+  ],
+  "cumulative": null,
+  "max_bonus": 500,
+  "starts_in_days": -10,
+  "ends_in_days": 30,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "magnit"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех магазинах сети «Магнит»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_004",
+  "title": "Молоко «Простоквашино» с кэшбэком 20%",
+  "short_title": "Молоко «Простоквашино»",
+  "brand": "Простоквашино",
+  "product_category_id": "dairy",
+  "image": null,
+  "bg_color": "#5C8FD6",
+  "items": [
+   {
+    "name": "Молоко 2,5%",
+    "variant": "930 мл"
+   },
+   {
+    "name": "Молоко 3,2%",
+    "variant": "930 мл"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 20,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 150,
+  "starts_in_days": -10,
+  "ends_in_days": 12,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "pyaterochka",
+    "perekrestok"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "В магазинах сетей «Пятёрочка» и «Перекрёсток»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_005",
+  "title": "Чипсы «Хрустим» — 30% за 3 покупки",
+  "short_title": "Чипсы «Хрустим»",
+  "brand": "Хрустим",
+  "product_category_id": "sweets",
+  "image": null,
+  "bg_color": "#E2A23B",
+  "items": [
+   {
+    "name": "Чипсы картофельные",
+    "variant": "сметана и лук, 140 г"
+   },
+   {
+    "name": "Чипсы картофельные",
+    "variant": "сыр, 140 г"
+   }
+  ],
+  "qty_rule": "За 3 покупки за время акции",
+  "mechanic": "cumulative",
+  "rate": 30,
+  "tiers": null,
+  "cumulative": {
+   "purchases": 3,
+   "rate": 30
+  },
+  "max_bonus": 200,
+  "starts_in_days": -10,
+  "ends_in_days": 25,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "dixy"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех магазинах сети «Дикси»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_006",
+  "title": "Кофе «Монарх» с кэшбэком 25%",
+  "short_title": "Кофе «Монарх»",
+  "brand": "Монарх",
+  "product_category_id": "drinks",
+  "image": null,
+  "bg_color": "#7A5236",
+  "items": [
+   {
+    "name": "Кофе растворимый",
+    "variant": "95 г"
+   },
+   {
+    "name": "Кофе молотый",
+    "variant": "230 г"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 25,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 300,
+  "starts_in_days": -10,
+  "ends_in_days": 18,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "chizhik"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех магазинах сети «Чижик»",
+  "requires_activation": true,
+  "status": "active",
+  "how_to": [
+   "Активируйте предложение",
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_007",
+  "title": "Сыр «Ламбер» с кэшбэком 15%",
+  "short_title": "Сыр «Ламбер»",
+  "brand": "Ламбер",
+  "product_category_id": "dairy",
+  "image": null,
+  "bg_color": "#E3C15A",
+  "items": [
+   {
+    "name": "Сыр полутвёрдый",
+    "variant": "230 г"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 15,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 200,
+  "starts_in_days": -10,
+  "ends_in_days": 40,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "vkusvill"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех магазинах сети «ВкусВилл»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_008",
+  "title": "Zemma Natural Comfort Smart с кэшбэком 40%",
+  "short_title": "Zemma Natural Comfort",
+  "brand": "Zemma",
+  "product_category_id": "household",
+  "image": null,
+  "bg_color": "#9CC48A",
+  "items": [
+   {
+    "name": "Упаковка Zemma Natural Comfort Smart",
+    "variant": "6 рулонов"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 40,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 150,
+  "starts_in_days": -10,
+  "ends_in_days": 1,
+  "where": {
+   "type": "any",
+   "chain_ids": [],
+   "formats": [
+    "supermarket",
+    "hypermarket"
+   ],
+   "channels": [
+    "offline",
+    "online"
+   ],
+   "excluded": [
+    "Ozon",
+    "Wildberries",
+    "Яндекс Маркет",
+    "Мегамаркет"
+   ],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": true,
+  "where_text": "В любых офлайн- и онлайн-магазинах, кроме маркетплейсов Ozon, Wildberries, «Яндекс Маркет» и «Мегамаркет»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_009",
+  "title": "Стиральный порошок «Персил» с кэшбэком 15%",
+  "short_title": "Порошок «Персил»",
+  "brand": "Персил",
+  "product_category_id": "household",
+  "image": null,
+  "bg_color": "#5A86C9",
+  "items": [
+   {
+    "name": "Стиральный порошок",
+    "variant": "3 кг"
+   },
+   {
+    "name": "Гель для стирки",
+    "variant": "1,3 л"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 15,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 400,
+  "starts_in_days": -10,
+  "ends_in_days": 28,
+  "where": {
+   "type": "any",
+   "chain_ids": [],
+   "formats": null,
+   "channels": [
+    "offline",
+    "online"
+   ],
+   "excluded": [
+    "Ozon",
+    "Wildberries",
+    "Яндекс Маркет",
+    "Мегамаркет"
+   ],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "В любых офлайн- и онлайн-магазинах, кроме маркетплейсов Ozon, Wildberries, «Яндекс Маркет» и «Мегамаркет»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_010",
+  "title": "Корм «Вискас» — 20% за 2 покупки",
+  "short_title": "Корм «Вискас»",
+  "brand": "Вискас",
+  "product_category_id": "pets",
+  "image": null,
+  "bg_color": "#7E5BA6",
+  "items": [
+   {
+    "name": "Влажный корм для кошек",
+    "variant": "75 г"
+   },
+   {
+    "name": "Сухой корм для кошек",
+    "variant": "800 г"
+   }
+  ],
+  "qty_rule": "За 2 покупки за время акции",
+  "mechanic": "cumulative",
+  "rate": 20,
+  "tiers": null,
+  "cumulative": {
+   "purchases": 2,
+   "rate": 20
+  },
+  "max_bonus": 250,
+  "starts_in_days": -10,
+  "ends_in_days": 21,
+  "where": {
+   "type": "any",
+   "chain_ids": [],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "В любых офлайн-магазинах",
+  "requires_activation": true,
+  "status": "active",
+  "how_to": [
+   "Активируйте предложение",
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_011",
+  "title": "Пельмени «Сибирская коллекция» с кэшбэком 25%",
+  "short_title": "Пельмени «Сибирская коллекция»",
+  "brand": "Сибирская коллекция",
+  "product_category_id": "frozen",
+  "image": null,
+  "bg_color": "#7DBBD8",
+  "items": [
+   {
+    "name": "Пельмени",
+    "variant": "700 г"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 25,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 200,
+  "starts_in_days": -10,
+  "ends_in_days": 16,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "magnit",
+    "perekrestok"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "В магазинах сетей «Магнит» и «Перекрёсток»",
+  "requires_activation": false,
+  "status": "active",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ },
+ {
+  "id": "rct_012",
+  "title": "Сок «Добрый» с кэшбэком 20%",
+  "short_title": "Сок «Добрый»",
+  "brand": "Добрый",
+  "product_category_id": "drinks",
+  "image": null,
+  "bg_color": "#E58B3A",
+  "items": [
+   {
+    "name": "Сок яблочный",
+    "variant": "1 л"
+   }
+  ],
+  "qty_rule": "За покупку одного товара",
+  "mechanic": "fixed",
+  "rate": 20,
+  "tiers": null,
+  "cumulative": null,
+  "max_bonus": 100,
+  "starts_in_days": -40,
+  "ends_in_days": -3,
+  "where": {
+   "type": "chain",
+   "chain_ids": [
+    "pyaterochka"
+   ],
+   "formats": null,
+   "channels": [
+    "offline"
+   ],
+   "excluded": [],
+   "regions": [
+    "Москва"
+   ]
+  },
+  "store_match_confirmed": false,
+  "where_text": "Во всех магазинах сети «Пятёрочка»",
+  "requires_activation": false,
+  "status": "expired",
+  "how_to": [
+   "Оплатите покупку любой картой Т-Банка",
+   "Отсканируйте QR-код чека или загрузите скриншот"
+  ]
+ }
+]

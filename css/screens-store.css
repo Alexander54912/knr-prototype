@@ -1,0 +1,173 @@
+/* screens-store.css — стили экранов трека A: главный, карточка магазина, выбор адреса, «О магазине», контекст карты. */
+
+.stub { padding: 8px var(--gap) var(--gap); display: grid; gap: 10px; }
+.stub pre {
+  margin: 0;
+  padding: 12px;
+  border-radius: var(--radius-s);
+  background: var(--surface);
+  color: var(--text-2);
+  font-size: var(--fs-xs);
+  white-space: pre-wrap;
+}
+
+/* --- «Уточнить адрес» -------------------------------------------------------- */
+.loc-hint { margin: 0 var(--gap) 12px; font-size: var(--fs-s); color: var(--text-2); line-height: 1.4; }
+.loc-list { padding-top: 8px; }
+.loc-row { align-items: center; min-height: 64px; }
+.loc-row__icon { width: 40px; height: 40px; display: grid; place-items: center; border-radius: 50%; background: var(--surface); color: var(--accent); }
+.loc-row__icon .icon { width: 20px; height: 20px; }
+.loc-row__check { color: var(--accent); }
+
+/* --- Главный экран ----------------------------------------------------------- */
+.home-head {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr); /* иначе ширина ряда чипсов растягивает колонку */
+  gap: 10px;
+  padding: 2px 0 10px;
+  background: var(--bg-elevated);
+}
+.chip--more .icon { width: 14px; height: 14px; margin-right: -4px; }
+.home-body { min-height: 200px; }
+.home-sentinel { height: 1px; }
+.home-universal { padding: 6px var(--gap) 4px; }
+
+/* Строки списков: заголовок и значение справа в одной линии */
+.row__head { display: flex; align-items: baseline; gap: 12px; min-width: 0; }
+.row__head .row__title { flex: 1 1 auto; min-width: 0; }
+.row__head .row__value { font-size: 16px; }
+.row__benefit { display: flex; align-items: center; gap: 6px; color: var(--text); }
+.row__benefit--regular { color: var(--text-2); }
+.row__thumbs { display: flex; gap: 6px; margin-top: 6px; }
+.row__thumbs .pimg--s { width: 40px; border-radius: 10px; }
+.row .logo--l { width: 56px; height: 56px; font-size: 20px; }
+
+/* Карточка-вход «В любых магазинах» */
+.universal-entry {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px;
+  border: 0;
+  border-radius: var(--radius-l);
+  background: var(--surface);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+.universal-entry:active { background: var(--surface-pressed); }
+.universal-entry__thumbs { display: flex; flex: 0 0 auto; }
+.universal-entry__thumbs .pimg--s { width: 44px; border-radius: 12px; border: 2px solid var(--surface); }
+.universal-entry__thumbs .pimg--s + .pimg--s { margin-left: -14px; }
+.universal-entry__body { flex: 1 1 auto; min-width: 0; display: grid; gap: 4px; }
+.universal-entry__title { font-size: 17px; font-weight: 700; }
+.universal-entry__sub { display: flex; align-items: center; gap: 6px; font-size: var(--fs-s); color: var(--text-2); }
+.universal-entry__chevron { color: var(--text-3); }
+
+/* --- «Ещё»: сетка категорий --------------------------------------------------- */
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding: 4px var(--gap) 12px;
+}
+.cat-tile {
+  display: grid;
+  justify-items: center;
+  gap: 8px;
+  padding: 14px 6px;
+  border: 2px solid transparent;
+  border-radius: var(--radius-m);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.cat-tile.is-active { border-color: var(--accent); }
+.cat-tile__name { font-size: 13px; font-weight: 500; text-align: center; line-height: 1.2; }
+.cat-actions { padding: 0 var(--gap); }
+
+/* --- Карточка магазина --------------------------------------------------------- */
+[data-screen="store"] .screen-head__title { opacity: 0; transition: opacity 160ms ease; }
+[data-screen="store"].is-scrolled .screen-head__title { opacity: 1; }
+
+.store-head { display: flex; gap: 14px; padding: 0 var(--gap) 14px; }
+.store-head .logo--l { width: 64px; height: 64px; }
+.store-head__body { min-width: 0; display: grid; gap: 4px; align-content: start; }
+.store-head__title { margin: 2px 0 0; font-size: var(--fs-xl); font-weight: 800; letter-spacing: -.02em; line-height: 1.15; }
+.store-head__address { font-size: var(--fs-s); color: var(--text-2); line-height: 1.35; }
+.store-head__links { display: flex; flex-wrap: wrap; gap: 4px 16px; margin-top: 4px; font-size: 15px; font-weight: 500; }
+.store-head__links .link { min-height: 32px; }
+
+/* Обычный оффер — карточкой, как в проде */
+.regular-offer { display: flex; gap: 14px; align-items: flex-start; margin-bottom: 8px; }
+.regular-offer__body { display: grid; gap: 3px; }
+.regular-offer__title { font-size: 18px; font-weight: 700; }
+.regular-offer__text { font-size: 15px; color: var(--text); }
+.regular-offer__note { font-size: var(--fs-s); color: var(--text-3); margin-top: 2px; }
+
+/* Каталог */
+.store-catalog { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; padding-top: 4px; }
+.store-catalog .section__head { padding-bottom: 0; }
+.store-catalog__count { display: inline-flex; align-items: center; gap: 6px; font-size: var(--fs-s); color: var(--text-2); white-space: nowrap; }
+.store-catalog__grid { min-height: 120px; }
+.product-card.is-highlighted .pimg { box-shadow: 0 0 0 3px var(--accent); }
+
+/* Информация о месте (FuSe/SeSe без чековых) */
+.place-info { display: grid; gap: 10px; margin-top: 4px; }
+.place-info__title { font-size: 18px; font-weight: 700; }
+.place-info__line { display: flex; gap: 10px; align-items: center; font-size: 15px; color: var(--text-2); }
+.place-info__line .icon { width: 20px; height: 20px; color: var(--text-3); }
+
+/* --- Выбор адреса ---------------------------------------------------------------- */
+.addr-map-btn { min-height: 36px; padding: 0 12px; font-size: var(--fs-s); border-radius: 18px; }
+.addr-map-btn .icon { width: 18px; height: 18px; }
+.addr-hint { margin: 0 var(--gap) 4px; font-size: var(--fs-s); color: var(--text-3); }
+.addr-row { align-items: center; }
+.addr-row .row__title { white-space: normal; font-size: 16px; }
+.addr-row .row__meta { display: flex; align-items: center; gap: 6px; }
+.addr-row__check { width: 24px; color: var(--accent); flex: 0 0 auto; }
+.addr-row.is-current { background: var(--accent-soft); }
+
+/* --- О магазине ------------------------------------------------------------------- */
+.about-photos {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 0 var(--gap) 12px;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  touch-action: pan-x;
+}
+.about-photos::-webkit-scrollbar { display: none; }
+.about-photo {
+  position: relative;
+  flex: 0 0 82%;
+  aspect-ratio: 16 / 10;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-radius: var(--radius-l);
+  background: linear-gradient(135deg, color-mix(in srgb, var(--photo-bg) 55%, var(--surface)), var(--surface));
+  color: var(--text-3);
+  font-size: var(--fs-s);
+  scroll-snap-align: start;
+}
+.about-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.about-head { display: flex; gap: 12px; align-items: center; padding: 4px var(--gap) 14px; }
+.about-head__title { margin: 0; font-size: var(--fs-l); font-weight: 800; }
+.about-head__sub { font-size: var(--fs-s); color: var(--text-2); }
+.about-card { display: grid; gap: 14px; }
+.about-line { display: flex; gap: 12px; align-items: flex-start; }
+.about-line .icon { width: 22px; height: 22px; color: var(--text-3); margin-top: 1px; }
+.about-line__title { font-size: 13px; color: var(--text-3); }
+.about-line__text { font-size: 16px; }
+.about-actions { padding: 16px var(--gap) 0; }
+
+/* --- Режим карты (map-context) ------------------------------------------------------- */
+.ctx-head { position: sticky; top: 0; z-index: 3; padding: 2px var(--gap) 12px; background: var(--bg-elevated); }
+.ctx-head__title { font-size: 18px; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ctx-head__sub { margin-top: 2px; font-size: var(--fs-s); color: var(--text-2); }

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "pyaterochka",
+  "name": "Пятёрочка",
+  "letters": "5",
+  "color": "#E31E24",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "magnit",
+  "name": "Магнит",
+  "letters": "М",
+  "color": "#E4002B",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "perekrestok",
+  "name": "Перекрёсток",
+  "letters": "П",
+  "color": "#0A7A3D",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "dixy",
+  "name": "Дикси",
+  "letters": "Д",
+  "color": "#F28C00",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "vkusvill",
+  "name": "ВкусВилл",
+  "letters": "ВВ",
+  "color": "#2BA84A",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "chizhik",
+  "name": "Чижик",
+  "letters": "Ч",
+  "color": "#FFD200",
+  "text_color": "#1A1A1A",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "lenta",
+  "name": "Лента",
+  "letters": "Л",
+  "color": "#003C96",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ },
+ {
+  "id": "auchan",
+  "name": "Ашан",
+  "letters": "А",
+  "color": "#D6001C",
+  "text_color": "#FFFFFF",
+  "logo": null,
+  "category_id": "supermarkets"
+ }
+]

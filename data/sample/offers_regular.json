@@ -1,0 +1,114 @@
+[
+ {
+  "id": "ro_001",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_002",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_003",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_004",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_005",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_006",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_007",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_008",
+  "type": "cashback",
+  "value": 70,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 0,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_009",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_010",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_011",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_012",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_013",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_014",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ }
+]

@@ -1,0 +1,229 @@
+/* frame.css — силуэт телефона на десктопе и полноэкранный режим на узких экранах. */
+
+* { box-sizing: border-box; }
+
+/* Атрибут hidden всегда прячет, даже если у класса задан display */
+[hidden] { display: none !important; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: var(--font);
+  font-size: var(--fs-m);
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background: var(--stage-bg);
+  color: var(--text);
+  overflow: hidden;
+}
+
+button { font: inherit; color: inherit; }
+
+/* --- Десктоп: телефон по центру ------------------------------------------- */
+.stage {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 24px;
+}
+
+.device {
+  position: relative;
+  width: 390px;
+  height: 844px;
+  max-height: calc(100vh - 80px);
+  border-radius: 48px;
+  padding: 0;
+  box-shadow: 0 0 0 10px var(--device-frame), 0 0 0 11px rgba(255, 255, 255, .06), 0 30px 80px rgba(0, 0, 0, .45);
+  overflow: hidden;
+  /* В рамке есть свой статус-бар */
+  --statusbar-h: 47px;
+  --safe-top: 0px;
+  --safe-bottom: 0px;
+}
+
+.stage__caption {
+  margin: 10px 0 0;
+  font-size: var(--fs-xs);
+  color: var(--text-3);
+  letter-spacing: .02em;
+}
+
+.app {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background: var(--bg);
+  /* Верх шторки в положении full = низ шапки */
+  --top-inset: calc(var(--statusbar-h) + var(--safe-top) + var(--header-h));
+}
+
+/* Фейковый статус-бар */
+.statusbar {
+  position: absolute;
+  z-index: 100; /* статус-бар телефона — поверх всех экранов */
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--statusbar-h);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 30px 0 44px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text);
+  pointer-events: none;
+}
+
+.statusbar__island {
+  position: absolute;
+  left: 50%;
+  top: 11px;
+  width: 120px;
+  height: 34px;
+  margin-left: -60px;
+  border-radius: 20px;
+  background: #000;
+}
+
+.statusbar__icons { display: flex; gap: 5px; align-items: center; }
+.statusbar__icons svg { fill: currentColor; }
+
+/* Шапка «Кэшбэк на районе» поверх карты */
+.app-header {
+  position: absolute;
+  z-index: 30;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: var(--top-inset);
+  padding-top: calc(var(--statusbar-h) + var(--safe-top));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, var(--bg) 0%, color-mix(in srgb, var(--bg) 82%, transparent) 70%, transparent 100%);
+  pointer-events: none;
+  transition: background-color var(--dur) var(--ease);
+}
+
+/* Когда шторка раскрыта полностью, шапка становится сплошной */
+.app[data-sheet="full"] .app-header { background: var(--bg); }
+
+.app-header__back {
+  position: absolute;
+  left: 6px;
+  bottom: 4px;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: none;
+  color: var(--accent);
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.app-header__title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -.01em;
+}
+
+.fatal {
+  position: absolute;
+  inset: 40% 16px auto;
+  z-index: 100;
+  padding: 16px;
+  border-radius: var(--radius-m);
+  background: var(--surface);
+  color: var(--danger);
+}
+
+/* --- Узкий экран: на весь экран, без рамки --------------------------------- */
+@media (max-width: 600px) {
+  .stage { padding: 0; display: block; min-height: 0; height: 100%; }
+  .device {
+    width: 100%;
+    height: 100%;
+    max-height: none;
+    border-radius: 0;
+    box-shadow: none;
+    --statusbar-h: 0px;
+    --safe-top: env(safe-area-inset-top, 0px);
+    --safe-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  .statusbar, .stage__caption { display: none; }
+  body { background: var(--bg); }
+}
+
+/* Невысокое окно на десктопе: телефон уменьшается по высоте */
+@media (min-width: 601px) and (max-height: 760px) {
+  .stage__caption { display: none; }
+  .device { max-height: calc(100vh - 40px); }
+}
+
+/* --- Dev-панель (?dev=1) ----------------------------------------------------- */
+.dev-panel {
+  position: fixed;
+  z-index: 1000;
+  top: 24px;
+  right: 24px;
+  width: 300px;
+  max-height: calc(100vh - 48px);
+  overflow: auto;
+  padding: 14px;
+  border-radius: 16px;
+  background: #26262A;
+  color: #EDEDF0;
+  font-size: 13px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, .4);
+  --dev-accent: #428BF9;
+}
+.dev-panel__toggle { display: none; }
+.dev-panel__title { margin: 4px 0 8px; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: #8E8E93; }
+.dev-panel__title:not(:first-child) { margin-top: 16px; }
+.dev-row { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 34px; }
+.dev-row > span { color: #B5B5BA; }
+.dev-row b { font-weight: 600; text-align: right; }
+.dev-row b.is-bad { color: #F2484A; }
+.dev-row select, .dev-row button {
+  max-width: 150px;
+  height: 30px;
+  padding: 0 8px;
+  border: 1px solid #3A3A3F;
+  border-radius: 8px;
+  background: #1C1C1F;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.dev-row input[type="checkbox"] { width: 18px; height: 18px; accent-color: var(--dev-accent); }
+
+/* Узкий экран: панель прячется за кнопкой DEV */
+@media (max-width: 600px), (max-width: 1100px) and (min-width: 601px) {
+  .dev-panel { top: auto; bottom: 12px; right: 12px; width: auto; max-width: calc(100vw - 24px); padding: 0; background: none; box-shadow: none; }
+  .dev-panel__toggle {
+    display: block;
+    margin-left: auto;
+    height: 32px;
+    padding: 0 12px;
+    border: 0;
+    border-radius: 16px;
+    background: #FFDD2D;
+    color: #1A1A1A;
+    font: 700 12px/1 var(--font);
+    cursor: pointer;
+  }
+  .dev-panel__body { display: none; margin-top: 8px; padding: 14px; border-radius: 16px; background: #26262A; box-shadow: 0 10px 40px rgba(0, 0, 0, .4); }
+  .dev-panel.is-open .dev-panel__body { display: block; }
+}

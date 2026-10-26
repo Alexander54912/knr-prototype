@@ -1,0 +1,150 @@
+{
+ "place": [
+  {
+   "id": "food",
+   "name": "Где поесть",
+   "icon": "assets/icons/food.svg",
+   "color": "#F5A623",
+   "order": 1
+  },
+  {
+   "id": "supermarkets",
+   "name": "Супермаркеты",
+   "icon": "assets/icons/supermarkets.svg",
+   "color": "#4CAF50",
+   "order": 2
+  },
+  {
+   "id": "clothes",
+   "name": "Гардероб",
+   "icon": "assets/icons/clothes.svg",
+   "color": "#8E7CC3",
+   "order": 3
+  },
+  {
+   "id": "health",
+   "name": "Здоровье",
+   "icon": "assets/icons/health.svg",
+   "color": "#E57373",
+   "order": 4
+  },
+  {
+   "id": "beauty",
+   "name": "Красота",
+   "icon": "assets/icons/beauty.svg",
+   "color": "#F06292",
+   "order": 5
+  },
+  {
+   "id": "home",
+   "name": "Дом и ремонт",
+   "icon": "assets/icons/home.svg",
+   "color": "#A1887F",
+   "order": 6
+  },
+  {
+   "id": "flowers",
+   "name": "Цветы",
+   "icon": "assets/icons/flowers.svg",
+   "color": "#FF8A65",
+   "order": 7
+  },
+  {
+   "id": "auto",
+   "name": "Авто",
+   "icon": "assets/icons/auto.svg",
+   "color": "#64B5F6",
+   "order": 8
+  },
+  {
+   "id": "fun",
+   "name": "Развлечения",
+   "icon": "assets/icons/fun.svg",
+   "color": "#7986CB",
+   "order": 9
+  },
+  {
+   "id": "services",
+   "name": "Услуги",
+   "icon": "assets/icons/services.svg",
+   "color": "#4DB6AC",
+   "order": 10
+  },
+  {
+   "id": "kids",
+   "name": "Детям",
+   "icon": "assets/icons/kids.svg",
+   "color": "#FFD54F",
+   "order": 11
+  },
+  {
+   "id": "sport",
+   "name": "Спорт",
+   "icon": "assets/icons/sport.svg",
+   "color": "#81C784",
+   "order": 12
+  }
+ ],
+ "product": [
+  {
+   "id": "dairy",
+   "name": "Молочное и сыры",
+   "color": "#7FB3E0",
+   "order": 1
+  },
+  {
+   "id": "sweets",
+   "name": "Сладости и снеки",
+   "color": "#E8A0BF",
+   "order": 2
+  },
+  {
+   "id": "drinks",
+   "name": "Напитки",
+   "color": "#F2B36F",
+   "order": 3
+  },
+  {
+   "id": "meat",
+   "name": "Мясо и колбасы",
+   "color": "#D9776B",
+   "order": 4
+  },
+  {
+   "id": "frozen",
+   "name": "Заморозка",
+   "color": "#8FD3E8",
+   "order": 5
+  },
+  {
+   "id": "grocery",
+   "name": "Бакалея",
+   "color": "#D8B77A",
+   "order": 6
+  },
+  {
+   "id": "household",
+   "name": "Бытовая химия",
+   "color": "#9ACD8F",
+   "order": 7
+  },
+  {
+   "id": "hygiene",
+   "name": "Гигиена и красота",
+   "color": "#C7A6E0",
+   "order": 8
+  },
+  {
+   "id": "baby",
+   "name": "Детям",
+   "color": "#F6D776",
+   "order": 9
+  },
+  {
+   "id": "pets",
+   "name": "Для животных",
+   "color": "#B9A089",
+   "order": 10
+  }
+ ]
+}

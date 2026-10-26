@@ -1,0 +1,114 @@
+/* sheet.css — шторка над картой и экраны внутри неё. */
+
+.sheet {
+  position: absolute;
+  z-index: 20;
+  left: 0;
+  right: 0;
+  top: var(--top-inset);
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+  box-shadow: 0 -4px 24px rgba(0, 0, 0, .25);
+  transform: translateY(40%); /* до запуска JS; дальше sheet.js задаёт transform сам */
+  will-change: transform;
+}
+
+.sheet.is-animating { transition: transform var(--dur) var(--ease), border-radius var(--dur) var(--ease); }
+/* Полностью раскрыта — без скругления, список сразу под шапкой */
+.sheet[data-pos="full"] { border-radius: 0; box-shadow: none; }
+
+/* Ручка */
+.sheet__grab {
+  flex: 0 0 auto;
+  height: 22px;
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+  cursor: grab;
+  touch-action: none;
+}
+
+.sheet__handle {
+  width: 36px;
+  height: 5px;
+  border-radius: 3px;
+  background: var(--surface-2);
+}
+
+/* Слой экранов: каждый экран — свой скролл-контейнер */
+.sheet__screens {
+  position: relative;
+  flex: 1 1 auto;
+  overflow: hidden;
+}
+
+.screen--sheet {
+  position: absolute;
+  inset: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  touch-action: pan-y;
+  background: var(--bg-elevated);
+  transition: transform var(--dur) var(--ease), opacity var(--dur) var(--ease);
+}
+
+/* Экран под другим экраном: скрыт, но DOM и скролл сохраняются */
+.screen--sheet.is-covered { visibility: hidden; transform: translateX(-24%); }
+.screen--sheet.is-entering { transform: translateX(100%); }
+.screen--sheet.is-leaving { transform: translateX(100%); pointer-events: none; }
+
+/* Отступ снизу, чтобы контент не прятался под плавающей кнопкой и home-индикатором */
+.screen--sheet > :last-child { padding-bottom: calc(96px + var(--safe-bottom)); }
+
+/* Пока тянем шторку: без выделения текста и без отставания элементов карты */
+.app.is-sheet-dragging { user-select: none; -webkit-user-select: none; cursor: grabbing; }
+.app.is-sheet-dragging .map-ui * { transition: none !important; }
+[data-sheet-drag] { touch-action: none; }
+
+/* --- Плавающие кнопки «Карта» / «Список» -------------------------------------- */
+.fab-layer {
+  position: absolute;
+  z-index: 25;
+  left: 0;
+  right: 0;
+  bottom: calc(20px + var(--safe-bottom));
+  display: flex;
+  justify-content: center;
+  pointer-events: none;
+}
+.fab {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 52px;
+  padding: 0 24px 0 18px;
+  border: 0;
+  border-radius: 26px;
+  background: #FFFFFF;
+  color: #1A1A1A;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, .35);
+  pointer-events: auto;
+  cursor: pointer;
+  animation: fab-in 220ms var(--ease);
+}
+.fab .icon { width: 22px; height: 22px; }
+.fab:active { transform: scale(.97); }
+:root[data-theme="light"] .fab { background: #1A1A1A; color: #FFFFFF; }
+@keyframes fab-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+
+/* В свёрнутом положении «Список» — над шторкой, в одном ряду с «Уточнить адрес» и геолокацией,
+   чтобы не закрывать поиск и чипсы */
+.app[data-sheet="collapsed"] .fab-layer {
+  bottom: calc(var(--sheet-visible, 120px) + 12px);
+  justify-content: flex-end;
+  padding-right: 72px;
+}
+.app[data-sheet="collapsed"] .fab { height: 44px; padding: 0 18px 0 14px; font-size: 15px; font-weight: 600; }
+.app[data-sheet="collapsed"] .fab .icon { width: 20px; height: 20px; }

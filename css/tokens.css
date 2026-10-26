@@ -1,0 +1,95 @@
+/* tokens.css — цвета, радиусы, шрифты. Тёмная тема по умолчанию, светлая — data-theme="light". */
+
+:root {
+  /* Шрифт */
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --fs-xs: 12px;
+  --fs-s: 14px;
+  --fs-m: 16px;
+  --fs-l: 20px;
+  --fs-xl: 24px;
+  --fs-xxl: 30px;
+
+  /* Скругления и отступы */
+  --radius-xs: 8px;
+  --radius-s: 12px;
+  --radius-m: 16px;
+  --radius-l: 20px;
+  --radius-xl: 24px;
+  --gap: 16px;
+
+  /* Геометрия экрана (переопределяется в frame.css для телефона/полного экрана) */
+  --statusbar-h: 0px;
+  --header-h: 52px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  /* Анимации */
+  --ease: cubic-bezier(.2, .8, .2, 1);
+  --dur: 280ms;
+
+  /* Фирменные цвета (одинаковые в обеих темах) */
+  --yellow: #FFDD2D;
+  --on-yellow: #1A1A1A;
+  --danger: #F2484A;
+  --success: #3BB55E;
+}
+
+/* Тёмная тема — как текущий прод */
+:root,
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1C1C1E;
+  --bg-elevated: #1C1C1E;
+  --surface: #2C2C2E;
+  --surface-2: #3A3A3C;
+  --surface-pressed: #48484A;
+  --text: #FFFFFF;
+  --text-2: rgba(255, 255, 255, .78);
+  --text-3: #8E8E93;
+  --divider: rgba(255, 255, 255, .1);
+  --accent: #428BF9;
+  --accent-soft: rgba(66, 139, 249, .18);
+  --on-accent: #FFFFFF;
+  --badge-bg: var(--yellow);
+  --badge-text: var(--on-yellow);
+  --receipt-tag-bg: rgba(66, 139, 249, .18);
+  --receipt-tag-text: #7DB0FF;
+  --overlay: rgba(0, 0, 0, .55);
+  --shadow: 0 6px 24px rgba(0, 0, 0, .45);
+  --map-control-bg: #1C1C1E;
+  --map-control-text: #FFFFFF;
+  --pin-ring: #1C1C1E;
+  --stage-bg: #0E0E10;
+  --device-frame: #2A2A2D;
+}
+
+/* Светлая тема — как референсы дизайнера */
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #FFFFFF;
+  --bg-elevated: #FFFFFF;
+  --surface: #F2F3F5;
+  --surface-2: #E7E8EB;
+  --surface-pressed: #DCDDE1;
+  --text: #1A1A1A;
+  --text-2: rgba(0, 0, 0, .72);
+  --text-3: #8E8E93;
+  --divider: rgba(0, 0, 0, .08);
+  --accent: #336FEE;
+  --accent-soft: rgba(51, 111, 238, .12);
+  --on-accent: #FFFFFF;
+  --receipt-tag-bg: rgba(51, 111, 238, .1);
+  --receipt-tag-text: #336FEE;
+  --overlay: rgba(0, 0, 0, .4);
+  --shadow: 0 6px 24px rgba(0, 0, 0, .14);
+  --map-control-bg: #FFFFFF;
+  --map-control-text: #1A1A1A;
+  --pin-ring: #FFFFFF;
+  --stage-bg: #E9EAEE;
+  --device-frame: #C9CBD1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur: 0ms; }
+}

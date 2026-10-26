@@ -1,0 +1,199 @@
+/* screens-offer.css — стили экранов трека B: «В любых магазинах», акция, добавление чека.
+   Общие классы — в components.css, переменные — в tokens.css. */
+
+.universal {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 10px;
+  padding-bottom: 24px;
+}
+.universal__lead {
+  margin: 0 var(--gap);
+  color: var(--text-2);
+  font-size: var(--fs-s);
+  line-height: 1.4;
+}
+/* Поиск и чипсы остаются под шапкой, когда список уезжает вверх. */
+.universal__tools {
+  position: sticky;
+  top: 52px;
+  z-index: 2;
+  display: grid;
+  gap: 10px;
+  padding-bottom: 4px;
+  background: var(--bg-elevated);
+}
+.universal__count {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 var(--gap);
+  color: var(--text-2);
+  font-size: var(--fs-s);
+}
+.universal__grid { min-height: 120px; }
+
+/* --- Экран акции ----------------------------------------------------------- */
+.offer-hero {
+  /* Тянем цвет под статус-бар: у страницы уже есть такой же отступ сверху. */
+  margin-top: calc(-1 * (var(--statusbar-h) + var(--safe-top)));
+  padding: calc(var(--statusbar-h) + var(--safe-top) + 4px) 8px 36px;
+  background: var(--offer-bg);
+  color: var(--offer-ink);
+}
+.offer-hero__bar { display: flex; justify-content: space-between; align-items: center; }
+.offer-hero .icon-btn { color: var(--offer-ink); }
+.offer-hero__title {
+  margin: 4px 12px 0;
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -.03em;
+  line-height: 1.15;
+}
+.offer-hero__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 12px 0;
+}
+.offer-hero__deadline { font-size: 15px; font-weight: 600; }
+.offer-hero__art { display: flex; justify-content: center; margin-top: 8px; }
+.offer-hero__art .pimg { width: 168px; background: transparent; }
+.offer-body {
+  display: grid;
+  gap: 12px;
+  margin-top: -20px;
+  padding: 0 var(--gap) 28px;
+}
+.offer-banner {
+  padding: 12px 14px;
+  border-radius: var(--radius-m);
+  background: var(--danger);
+  color: #fff;
+  font-weight: 700;
+}
+.offer-card {
+  display: grid;
+  gap: 10px;
+  padding: 16px;
+  border-radius: var(--radius-l);
+  background: var(--surface);
+}
+.offer-card h2 { margin: 0; font-size: 18px; font-weight: 800; }
+.offer-card__lead, .offer-card__text, .offer-card__note { margin: 0; }
+.offer-card__note { color: var(--text-2); font-size: var(--fs-s); }
+.offer-item__name { font-size: 16px; font-weight: 600; }
+.offer-item__variant { color: var(--text-3); font-size: var(--fs-s); }
+.offer-qty {
+  padding: 10px 12px;
+  border-radius: var(--radius-s);
+  background: var(--surface-2);
+  color: var(--text-2);
+  font-size: var(--fs-s);
+}
+.offer-tier {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 0;
+  border-top: 1px solid var(--divider);
+  font-size: 15px;
+}
+.offer-steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+.offer-steps li { padding-left: 4px; }
+.offer-activated {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  color: var(--success);
+  font-weight: 600;
+}
+.offer-actions { display: grid; gap: 8px; }
+
+/* --- Добавление чека ------------------------------------------------------- */
+.receipt { display: grid; gap: 10px; padding: 0 var(--gap) 8px; }
+.receipt__lead { margin: 0; color: var(--text-2); font-size: var(--fs-s); line-height: 1.4; }
+.receipt-choice {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 72px;
+  padding: 12px 14px;
+  border: 0;
+  border-radius: var(--radius-l);
+  background: var(--surface);
+  color: var(--text);
+  text-align: left;
+  cursor: pointer;
+}
+.receipt-choice:active { background: var(--surface-pressed); }
+.receipt-choice__icon {
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.receipt-choice__title, .receipt-choice__sub { display: block; }
+.receipt-choice__title { font-size: 16px; font-weight: 700; }
+.receipt-choice__sub { margin-top: 2px; color: var(--text-3); font-size: var(--fs-s); }
+.receipt-finder {
+  position: relative;
+  height: 180px;
+  margin: 4px 0;
+  border-radius: var(--radius-l);
+  background:
+    linear-gradient(var(--text), var(--text)) 16px 16px / 28px 3px no-repeat,
+    linear-gradient(var(--text), var(--text)) 16px 16px / 3px 28px no-repeat,
+    linear-gradient(var(--text), var(--text)) calc(100% - 16px) 16px / 28px 3px no-repeat,
+    linear-gradient(var(--text), var(--text)) calc(100% - 16px) 16px / 3px 28px no-repeat,
+    linear-gradient(var(--text), var(--text)) 16px calc(100% - 16px) / 28px 3px no-repeat,
+    linear-gradient(var(--text), var(--text)) 16px calc(100% - 16px) / 3px 28px no-repeat,
+    linear-gradient(var(--text), var(--text)) calc(100% - 16px) calc(100% - 16px) / 28px 3px no-repeat,
+    linear-gradient(var(--text), var(--text)) calc(100% - 16px) calc(100% - 16px) / 3px 28px no-repeat,
+    var(--surface);
+  overflow: hidden;
+}
+.receipt-finder__line {
+  position: absolute;
+  left: 24px;
+  right: 24px;
+  height: 2px;
+  background: var(--yellow);
+  animation: receipt-scan 1.6s var(--ease) infinite;
+}
+@keyframes receipt-scan {
+  from { top: 24px; }
+  to { top: calc(100% - 24px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .receipt-finder__line { animation: none; top: 50%; }
+}
+.receipt-status { display: grid; justify-items: center; gap: 8px; padding: 12px 8px 4px; text-align: center; }
+.receipt-status__title { margin: 0; font-size: 20px; font-weight: 800; }
+.receipt-status__text { margin: 0; max-width: 280px; color: var(--text-2); font-size: var(--fs-s); line-height: 1.4; }
+.receipt-status__mark {
+  width: 56px;
+  height: 56px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--success);
+  color: #fff;
+}
+.receipt-spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid var(--surface-2);
+  border-top-color: var(--yellow);
+  border-radius: 50%;
+  animation: receipt-spin 0.8s linear infinite;
+}
+@keyframes receipt-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .receipt-spinner { animation: none; border-top-color: var(--yellow); }
+}

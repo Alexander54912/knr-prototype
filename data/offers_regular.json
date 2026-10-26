@@ -1,0 +1,9810 @@
+[
+ {
+  "id": "ro_0001",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0002",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0003",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0004",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0005",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0006",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0007",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0008",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0009",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 6,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0010",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0011",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0012",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0013",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0014",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0015",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0016",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0017",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0018",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 6,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0019",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0020",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0021",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0022",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0023",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0024",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0025",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0026",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0027",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0028",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0029",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0030",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0031",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0032",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0033",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0034",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0035",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0036",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0037",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 42,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0038",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0039",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0040",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0041",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0042",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0043",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0044",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0045",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0046",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0047",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0048",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0049",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0050",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0051",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0052",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 42,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0053",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0054",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0055",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0056",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0057",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0058",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0059",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0060",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0061",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0062",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0063",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0064",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0065",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0066",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0067",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 40,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0068",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0069",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0070",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0071",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0072",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0073",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0074",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 16,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0075",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0076",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0077",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0078",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0079",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0080",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0081",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0082",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0083",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0084",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0085",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0086",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0087",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0088",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0089",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0090",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0091",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0092",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0093",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0094",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0095",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0096",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0097",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0098",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0099",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0100",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0101",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0102",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0103",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0104",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0105",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0106",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0107",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 20,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0108",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0109",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0110",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0111",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0112",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0113",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0114",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0115",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0116",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0117",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0118",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0119",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0120",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0121",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 24,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0122",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0123",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0124",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0125",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0126",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0127",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0128",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0129",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0130",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0131",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 24,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0132",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 16,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0133",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0134",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0135",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0136",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 7,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0137",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0138",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0139",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0140",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0141",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0142",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0143",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0144",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0145",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0146",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0147",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0148",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0149",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0150",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0151",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0152",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0153",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0154",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0155",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0156",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0157",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0158",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0159",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0160",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0161",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0162",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0163",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0164",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0165",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0166",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 35,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0167",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0168",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0169",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0170",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0171",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0172",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0173",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0174",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0175",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0176",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0177",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0178",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0179",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 16,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0180",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0181",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 27,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0182",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0183",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0184",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0185",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 24,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0186",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0187",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0188",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0189",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0190",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0191",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0192",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0193",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0194",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0195",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0196",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0197",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0198",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0199",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0200",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0201",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 18,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0202",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0203",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0204",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0205",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 12,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0206",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0207",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0208",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0209",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0210",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0211",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 34,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0212",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0213",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0214",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0215",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 18,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0216",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0217",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0218",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0219",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0220",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0221",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0222",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0223",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0224",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0225",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0226",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0227",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0228",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 39,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0229",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0230",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0231",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0232",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0233",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0234",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0235",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0236",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0237",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 27,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0238",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0239",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0240",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0241",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0242",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0243",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0244",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0245",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0246",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0247",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 45,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0248",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 43,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0249",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0250",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0251",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0252",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0253",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0254",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0255",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0256",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0257",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0258",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 24,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0259",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0260",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0261",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0262",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0263",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0264",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0265",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0266",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0267",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0268",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0269",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0270",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0271",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0272",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0273",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0274",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0275",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0276",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0277",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0278",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0279",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0280",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0281",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0282",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 18,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0283",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0284",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0285",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0286",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0287",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0288",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0289",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0290",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0291",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0292",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 12,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0293",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0294",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0295",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0296",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0297",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0298",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0299",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0300",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0301",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0302",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0303",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0304",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0305",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0306",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0307",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0308",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0309",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0310",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0311",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0312",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0313",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0314",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0315",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0316",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0317",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0318",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0319",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0320",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0321",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0322",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0323",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0324",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0325",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0326",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 16,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0327",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0328",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0329",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0330",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0331",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0332",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0333",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0334",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0335",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0336",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0337",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0338",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0339",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0340",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0341",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0342",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0343",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0344",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0345",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0346",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0347",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0348",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0349",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0350",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0351",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0352",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0353",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0354",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0355",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0356",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0357",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0358",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0359",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0360",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0361",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0362",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0363",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0364",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0365",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0366",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0367",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 20,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0368",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0369",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0370",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0371",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0372",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0373",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0374",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0375",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0376",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0377",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 6,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0378",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0379",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0380",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 13,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0381",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0382",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0383",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0384",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0385",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0386",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0387",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0388",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0389",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0390",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0391",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0392",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0393",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0394",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0395",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0396",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0397",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0398",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0399",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0400",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0401",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0402",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0403",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0404",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0405",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0406",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 28,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0407",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0408",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0409",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0410",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0411",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0412",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0413",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0414",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 27,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0415",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0416",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0417",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0418",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0419",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0420",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0421",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0422",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0423",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0424",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 23,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0425",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0426",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 40,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0427",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0428",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0429",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0430",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 25,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0431",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0432",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0433",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0434",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0435",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0436",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0437",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0438",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0439",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0440",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0441",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0442",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0443",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0444",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0445",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0446",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0447",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0448",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0449",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0450",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0451",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0452",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0453",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0454",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0455",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0456",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0457",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0458",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0459",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0460",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0461",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0462",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0463",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0464",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0465",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 25,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0466",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0467",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0468",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0469",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0470",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0471",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0472",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0473",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0474",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0475",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0476",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0477",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0478",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0479",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0480",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0481",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0482",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0483",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 6,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0484",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0485",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0486",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0487",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 1,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0488",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0489",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0490",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0491",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0492",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0493",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0494",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0495",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0496",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0497",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0498",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0499",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0500",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0501",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0502",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0503",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0504",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0505",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0506",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0507",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0508",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0509",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0510",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0511",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0512",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0513",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0514",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0515",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 22,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0516",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0517",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0518",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0519",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 33,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0520",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0521",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0522",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0523",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0524",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0525",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0526",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0527",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0528",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0529",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0530",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0531",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0532",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0533",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0534",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0535",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0536",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0537",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0538",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0539",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0540",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0541",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0542",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 0,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0543",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0544",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0545",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0546",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0547",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0548",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0549",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 30,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0550",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 16,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0551",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0552",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0553",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0554",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0555",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0556",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0557",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0558",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0559",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0560",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0561",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0562",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0563",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0564",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0565",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0566",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0567",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 25,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0568",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0569",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0570",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0571",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0572",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 13,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0573",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0574",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0575",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0576",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0577",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0578",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0579",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0580",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0581",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0582",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0583",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0584",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0585",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0586",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0587",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0588",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0589",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0590",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0591",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0592",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0593",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 13,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0594",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0595",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 39,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0596",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0597",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0598",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0599",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0600",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0601",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0602",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0603",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0604",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0605",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0606",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0607",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0608",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0609",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0610",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0611",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0612",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0613",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0614",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 26,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0615",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0616",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0617",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0618",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0619",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0620",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0621",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0622",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0623",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0624",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 12,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0625",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0626",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 3,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0627",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0628",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0629",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0630",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0631",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0632",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0633",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0634",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0635",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0636",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0637",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0638",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0639",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 0,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0640",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0641",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0642",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0643",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0644",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0645",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0646",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0647",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0648",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 23,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0649",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0650",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0651",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0652",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0653",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 1,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0654",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0655",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0656",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0657",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0658",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0659",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0660",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0661",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0662",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0663",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0664",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 18,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0665",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0666",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 14,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0667",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0668",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0669",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0670",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0671",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0672",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0673",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0674",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0675",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0676",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0677",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 32,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0678",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 30,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0679",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0680",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0681",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0682",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0683",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0684",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0685",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0686",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0687",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0688",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0689",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0690",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0691",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 38,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0692",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0693",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0694",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0695",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0696",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0697",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0698",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0699",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0700",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0701",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0702",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0703",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0704",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0705",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0706",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0707",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0708",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0709",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0710",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 18,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0711",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0712",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0713",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0714",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0715",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0716",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0717",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0718",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0719",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0720",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 28,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0721",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0722",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0723",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0724",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0725",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0726",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0727",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0728",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0729",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0730",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0731",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0732",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0733",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0734",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0735",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0736",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0737",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 18,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0738",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 2,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0739",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0740",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0741",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0742",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 43,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0743",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0744",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0745",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0746",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0747",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0748",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0749",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0750",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0751",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0752",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0753",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0754",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0755",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0756",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 4,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0757",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0758",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0759",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0760",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0761",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0762",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0763",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0764",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0765",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0766",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0767",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0768",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0769",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0770",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0771",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0772",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0773",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 40,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0774",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 31,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0775",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0776",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0777",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0778",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0779",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0780",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0781",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0782",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0783",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0784",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 16,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0785",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0786",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0787",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0788",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0789",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0790",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0791",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0792",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0793",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0794",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 22,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0795",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 22,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0796",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0797",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0798",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0799",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0800",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0801",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0802",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0803",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0804",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0805",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0806",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0807",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0808",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0809",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0810",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0811",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0812",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0813",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0814",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0815",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0816",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 45,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0817",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0818",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0819",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0820",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0821",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0822",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0823",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0824",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0825",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0826",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0827",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0828",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0829",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0830",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 3,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0831",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0832",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0833",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 28,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0834",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0835",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 12,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0836",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0837",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0838",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0839",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0840",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0841",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0842",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0843",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0844",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0845",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0846",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0847",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0848",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 11,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0849",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0850",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0851",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0852",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0853",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0854",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0855",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0856",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0857",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0858",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0859",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0860",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0861",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0862",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0863",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0864",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0865",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0866",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0867",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0868",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0869",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0870",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0871",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0872",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0873",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0874",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 3,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0875",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0876",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 13,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0877",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 25,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0878",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0879",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0880",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0881",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0882",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0883",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0884",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0885",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0886",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0887",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0888",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0889",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0890",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0891",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0892",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0893",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0894",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0895",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0896",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 3,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0897",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0898",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0899",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 14,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0900",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0901",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0902",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 4,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0903",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0904",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0905",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0906",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0907",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0908",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0909",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0910",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0911",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0912",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0913",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0914",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0915",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0916",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0917",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0918",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0919",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0920",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0921",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0922",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0923",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 27,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0924",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0925",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0926",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0927",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0928",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0929",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0930",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0931",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0932",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0933",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 21,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0934",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0935",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 31,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0936",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0937",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 4,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0938",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0939",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0940",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0941",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 2,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0942",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0943",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0944",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0945",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0946",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0947",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0948",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0949",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0950",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0951",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0952",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0953",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0954",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0955",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 33,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0956",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_0957",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0958",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0959",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0960",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0961",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0962",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0963",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 23,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0964",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0965",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0966",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0967",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0968",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0969",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 16,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0970",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0971",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_0972",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0973",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0974",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 1,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_0975",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0976",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0977",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 34,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0978",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0979",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0980",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0981",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0982",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0983",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_0984",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0985",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_0986",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0987",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 25,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0988",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_0989",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 4,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0990",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0991",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 26,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0992",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0993",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0994",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 3,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_0995",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0996",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0997",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_0998",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_0999",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1000",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1001",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1002",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1003",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1004",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1005",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1006",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1007",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1008",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1009",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1010",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1011",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1012",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1013",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 34,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1014",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 14,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1015",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1016",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1017",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1018",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1019",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1020",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1021",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1022",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1023",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1024",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1025",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 20,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1026",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1027",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 28,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1028",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1029",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1030",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 18,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1031",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1032",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 15,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1033",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1034",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1035",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1036",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1037",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1038",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1039",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1040",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1041",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1042",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1043",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1044",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1045",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1046",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1047",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1048",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 0,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1049",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1050",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1051",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1052",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1053",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1054",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1055",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1056",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1057",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1058",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1059",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1060",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1061",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 24,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1062",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1063",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1064",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1065",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1066",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1067",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1068",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1069",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 2,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1070",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1071",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 35,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1072",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 38,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1073",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1074",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1075",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 34,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1076",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 18,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1077",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1078",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1079",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 30,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1080",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1081",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1082",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1083",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1084",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1085",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1086",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 0,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1087",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1088",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1089",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1090",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 36,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1091",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1092",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1093",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1094",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 24,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1095",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1096",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 37,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1097",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1098",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 6,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1099",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 35,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1100",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1101",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1102",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 43,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1103",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 30,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1104",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1105",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 42,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1106",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 6,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1107",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 30,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1108",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 13,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1109",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1110",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1111",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 23,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1112",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 7,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1113",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 44,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1114",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1115",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1116",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1117",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 35,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1118",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 20,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1119",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1120",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1121",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1122",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1123",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1124",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1125",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 44,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1126",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 11,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1127",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1128",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 5,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1129",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 39,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1130",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 12,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1131",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1132",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 26,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1133",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 40,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1134",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 8,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1135",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1136",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1137",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 37,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1138",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1139",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1140",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1141",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 45,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1142",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 37,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1143",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 38,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1144",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1145",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 21,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1146",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 5,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1147",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 0,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1148",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1149",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 34,
+  "max_bonus": 200
+ },
+ {
+  "id": "ro_1150",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1151",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 25,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1152",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 11,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1153",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1154",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1155",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 41,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1156",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 9,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1157",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 35,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1158",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1159",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 29,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1160",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1161",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1162",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 22,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1163",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1164",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 33,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1165",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 12,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1166",
+  "type": "discount",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 21,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1167",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1168",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 28,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1169",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 41,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1170",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 9,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1171",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 38,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1172",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 6,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1173",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1174",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 1,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1175",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1176",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1177",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 27,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1178",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 7,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1179",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 28,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1180",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 30,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1181",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 2,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1182",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1183",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 0,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1184",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1185",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1186",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 23,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1187",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 43,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1188",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1189",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 18,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1190",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1191",
+  "type": "discount",
+  "value": 50,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1192",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 11,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1193",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 36,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1194",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": 1000
+ },
+ {
+  "id": "ro_1195",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 39,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1196",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку",
+  "ends_in_days": 12,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1197",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1198",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 45,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1199",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 26,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1200",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 42,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1201",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 5,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1202",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 13,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1203",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 40,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1204",
+  "type": "discount",
+  "value": 30,
+  "condition": "За одну покупку",
+  "ends_in_days": 32,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1205",
+  "type": "discount",
+  "value": 15,
+  "condition": "За одну покупку",
+  "ends_in_days": 15,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1206",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 33,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1207",
+  "type": "cashback",
+  "value": 15,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 15,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1208",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1209",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 17,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1210",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1211",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 44,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1212",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 10,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1213",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 8,
+  "max_bonus": 100
+ },
+ {
+  "id": "ro_1214",
+  "type": "cashback",
+  "value": 10,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 14,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1215",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку",
+  "ends_in_days": 42,
+  "max_bonus": 800
+ },
+ {
+  "id": "ro_1216",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 22,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1217",
+  "type": "cashback",
+  "value": 7,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 19,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1218",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 19,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1219",
+  "type": "cashback",
+  "value": 5,
+  "condition": "За одну покупку на кассе",
+  "ends_in_days": 14,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1220",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 9,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1221",
+  "type": "cashback",
+  "value": 30,
+  "condition": "За покупки от 500 ₽",
+  "ends_in_days": 10,
+  "max_bonus": 400
+ },
+ {
+  "id": "ro_1222",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За одну покупку",
+  "ends_in_days": 31,
+  "max_bonus": 600
+ },
+ {
+  "id": "ro_1223",
+  "type": "cashback",
+  "value": 20,
+  "condition": "За одну покупку",
+  "ends_in_days": 17,
+  "max_bonus": 500
+ },
+ {
+  "id": "ro_1224",
+  "type": "discount",
+  "value": 10,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": null
+ },
+ {
+  "id": "ro_1225",
+  "type": "cashback",
+  "value": 25,
+  "condition": "За покупки от 1 000 ₽",
+  "ends_in_days": 29,
+  "max_bonus": 300
+ },
+ {
+  "id": "ro_1226",
+  "type": "cashback",
+  "value": 12,
+  "condition": "За одну покупку",
+  "ends_in_days": 3,
+  "max_bonus": 200
+ }
+]
